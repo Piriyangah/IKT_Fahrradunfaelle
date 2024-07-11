@@ -2,7 +2,7 @@ PRÄSENTATION GUIDELINE
 1. Einleitung
 Projekttitel und Zweck: Stellen Sie den Titel des Projekts vor und erklären Sie kurz, warum die Analyse von Fahrradunfällen wichtig ist.
 Ziele der Präsentation: Beschreiben Sie, was Sie in der Präsentation erreichen möchten (z.B. Ergebnisse, Methoden, Implikationen).
-Prädiktive Analyse von Fahrradunfällen mit maschinellem Lernen basierend auf Fast-Unfällen und realen Unfällen aus dem Jahr 2022
+Prädiktive Analyse von Fahrradunfällen mit maschinellem Lernen basierend auf Fast-Unfällen und realen Unfällen aus dem Jahr 2020
 Die prädiktive Analyse von Fahrradunfällen unter Verwendung von Fast-Unfällen und tatsächlichen Unfalldaten aus dem Jahr 2022 bietet wertvolle Erkenntnisse zur Verbesserung der Verkehrssicherheit und zur Förderung nachhaltiger Mobilität. Die Kombination dieser beiden Datensätze ermöglicht es, potenzielle Unfallrisiken präzise zu identifizieren und präventive Maßnahmen zu entwickeln.
 2. Hintergrund und Motivation
 Einführung in das Thema: Geben Sie einen kurzen Überblick über die Bedeutung der Verkehrssicherheit für Fahrradfahrer und die Herausforderungen im Zusammenhang mit Fahrradunfällen.
@@ -27,19 +27,19 @@ Die Integration von Fast-Unfällen und realen Unfalldaten aus dem Jahr 2022 in e
 3. Datenquellen und Datensätze
 Beschreibung der Datenquellen: Erklären Sie, woher die Daten stammen (z.B. öffentliche Aufzeichnungen, Apps, Forschungsstudien).
 Datenbeschreibung: Geben Sie eine Zusammenfassung der relevanten Variablen und Merkmale in Ihren Daten (wie in den vorherigen Nachrichten besprochen).
+Trello und Notebook schauen
 4. Methodik
-Machine Learning Ansatz: Erklären Sie, wie Sie Machine Learning verwendet haben, um das Problem der Fahrradunfallanalyse anzugehen.
+Machine Learning Ansatz: Erklären Sie, was der Machine Learning Aspekt sein könnte, um für das Problem der Fahrradunfallanalyse zu benutzen.
 Datenverarbeitung und Feature Engineering: Beschreiben Sie, wie die Daten vorbereitet wurden, einschließlich Bereinigung, Transformation und Auswahl relevanter Merkmale.
 Modellbildung: Diskutieren Sie die Art der Modelle, die Sie verwendet haben (z.B. Klassifikation, Regression) und warum diese für Ihr Problem geeignet sind.
 5. Ergebnisse und Erkenntnisse
 Vorhersagen und Leistung des Modells: Präsentieren Sie die Ergebnisse Ihrer Vorhersagen und bewerten Sie die Leistung Ihres Modells anhand relevanter Metriken (wie Genauigkeit, Präzision, Recall).
 Identifizierte Muster und Hotspots: Diskutieren Sie die Muster und Erkenntnisse, die Sie durch die Analyse der Daten gewonnen haben, z.B. wo und wann Fahrradunfälle häufig auftreten.
-6. Implikationen und Anwendungen
+6. Idee:
 Praktische Anwendungen: Beschreiben Sie, wie Ihre Ergebnisse zur Verbesserung der Verkehrssicherheit beitragen könnten, z.B. durch die Identifikation von Hotspots für gezielte Sicherheitsmaßnahmen.
-Zukünftige Forschung und Weiterentwicklung: Diskutieren Sie potenzielle Möglichkeiten für zukünftige Forschung und Verbesserungen Ihrer Modellierungstechniken.
-7. Schlussfolgerung
+7. Problemstellung
 Zusammenfassung der Hauptpunkte: Fassen Sie die wichtigsten Ergebnisse und Erkenntnisse Ihrer Präsentation zusammen.
-Schlussbemerkung: Geben Sie eine kurze Schlussfolgerung über die Bedeutung Ihrer Arbeit und mögliche Auswirkungen auf die Gesellschaft.
+Problemstellung vorstellen und was der nächste Ansatz ist
 8. Fragen und Diskussion
 Interaktion mit dem Publikum: Öffnen Sie die Sitzung für Fragen und Diskussionen über Ihre Präsentation und Ihre Ergebnisse.
 Schlussworte: Beenden Sie Ihre Präsentation mit Dank an das Publikum und Ihre Mitwirkenden.
