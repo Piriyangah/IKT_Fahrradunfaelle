@@ -4,7 +4,9 @@ Projekttitel und Zweck: Stellen Sie den Titel des Projekts vor und erklären Sie
 Ziele der Präsentation: Beschreiben Sie, was Sie in der Präsentation erreichen möchten (z.B. Ergebnisse, Methoden, Implikationen).
 Prädiktive Analyse von Fahrradunfällen mit maschinellem Lernen basierend auf Fast-Unfällen und realen Unfällen aus dem Jahr 2022
 Die prädiktive Analyse von Fahrradunfällen unter Verwendung von Fast-Unfällen und tatsächlichen Unfalldaten aus dem Jahr 2022 bietet wertvolle Erkenntnisse zur Verbesserung der Verkehrssicherheit und zur Förderung nachhaltiger Mobilität. Die Kombination dieser beiden Datensätze ermöglicht es, potenzielle Unfallrisiken präzise zu identifizieren und präventive Maßnahmen zu entwickeln.
-Bedeutung der Analyse:
+2. Hintergrund und Motivation
+Einführung in das Thema: Geben Sie einen kurzen Überblick über die Bedeutung der Verkehrssicherheit für Fahrradfahrer und die Herausforderungen im Zusammenhang mit Fahrradunfällen.
+Projektkontext: Erklären Sie den Kontext, in dem das Projekt durchgeführt wurde (z.B. Stadtverwaltung, Forschungsorganisation).
 Erweiterung der Datenbasis:
 Fast-Unfälle: Diese umfassen Beinahe-Unfälle, die oft unbemerkt bleiben, aber wichtige Hinweise auf gefährliche Situationen und Verhaltensmuster liefern können.
 Reale Unfälle: Diese bieten konkrete Informationen über tatsächliche Unfälle, einschließlich ihrer Schwere und spezifischen Umstände.
@@ -22,9 +24,6 @@ Bewusstseinsbildung: Die Ergebnisse der Analyse können genutzt werden, um die �
 Bürgerbeteiligung: Durch die Einbeziehung der Bürger in die Datensammlung (z.B. Meldung von Fast-Unfällen) kann eine bessere Datenbasis geschaffen und das Sicherheitsbewusstsein erhöht werden.
 Zusammenfassung:
 Die Integration von Fast-Unfällen und realen Unfalldaten aus dem Jahr 2022 in ein maschinelles Lernprojekt bietet eine umfassende Grundlage für die Analyse und Prävention von Fahrradunfällen. Diese innovative Herangehensweise hilft, die Verkehrssicherheit zu verbessern, das Vertrauen in den Radverkehr zu stärken und letztlich eine nachhaltigere und gesündere städtische Mobilität zu fördern.
-2. Hintergrund und Motivation
-Einführung in das Thema: Geben Sie einen kurzen Überblick über die Bedeutung der Verkehrssicherheit für Fahrradfahrer und die Herausforderungen im Zusammenhang mit Fahrradunfällen.
-Projektkontext: Erklären Sie den Kontext, in dem das Projekt durchgeführt wurde (z.B. Stadtverwaltung, Forschungsorganisation).
 3. Datenquellen und Datensätze
 Beschreibung der Datenquellen: Erklären Sie, woher die Daten stammen (z.B. öffentliche Aufzeichnungen, Apps, Forschungsstudien).
 Datenbeschreibung: Geben Sie eine Zusammenfassung der relevanten Variablen und Merkmale in Ihren Daten (wie in den vorherigen Nachrichten besprochen).
