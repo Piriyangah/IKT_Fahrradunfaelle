@@ -1,46 +1,23 @@
-PRÄSENTATION GUIDELINE
-1. Einleitung
-Projekttitel und Zweck: Stellen Sie den Titel des Projekts vor und erklären Sie kurz, warum die Analyse von Fahrradunfällen wichtig ist.
-Ziele der Präsentation: Beschreiben Sie, was Sie in der Präsentation erreichen möchten (z.B. Ergebnisse, Methoden, Implikationen).
-Prädiktive Analyse von Fahrradunfällen mit maschinellem Lernen basierend auf Fast-Unfällen und realen Unfällen aus dem Jahr 2020
-Die prädiktive Analyse von Fahrradunfällen unter Verwendung von Fast-Unfällen und tatsächlichen Unfalldaten aus dem Jahr 2022 bietet wertvolle Erkenntnisse zur Verbesserung der Verkehrssicherheit und zur Förderung nachhaltiger Mobilität. Die Kombination dieser beiden Datensätze ermöglicht es, potenzielle Unfallrisiken präzise zu identifizieren und präventive Maßnahmen zu entwickeln.
-2. Hintergrund und Motivation
-Einführung in das Thema: Geben Sie einen kurzen Überblick über die Bedeutung der Verkehrssicherheit für Fahrradfahrer und die Herausforderungen im Zusammenhang mit Fahrradunfällen.
-Projektkontext: Erklären Sie den Kontext, in dem das Projekt durchgeführt wurde (z.B. Stadtverwaltung, Forschungsorganisation).
-Erweiterung der Datenbasis:
-Fast-Unfälle: Diese umfassen Beinahe-Unfälle, die oft unbemerkt bleiben, aber wichtige Hinweise auf gefährliche Situationen und Verhaltensmuster liefern können.
-Reale Unfälle: Diese bieten konkrete Informationen über tatsächliche Unfälle, einschließlich ihrer Schwere und spezifischen Umstände.
-Sicherheitsverbesserung:
-Erkennung von Risikofaktoren: Durch die Analyse von Fast-Unfällen können frühzeitig potenzielle Risikofaktoren erkannt und adressiert werden, bevor es zu tatsächlichen Unfällen kommt.
-Präventive Maßnahmen: Städte und Gemeinden können gezielte Maßnahmen wie Infrastrukturverbesserungen oder Verkehrsregelungen implementieren, um die Sicherheit zu erhöhen.
-Förderung des Radverkehrs:
-Sicherheit und Vertrauen: Wenn Radfahrer wissen, dass Gefahren proaktiv adressiert werden, steigt das Vertrauen in die Nutzung des Fahrrads als Verkehrsmittel.
-Gesundheits- und Umweltvorteile: Ein sichereres Radverkehrsumfeld fördert die Nutzung des Fahrrads, was positive Effekte auf die Gesundheit der Bevölkerung und die Umwelt hat.
-Datengestützte Entscheidungen:
-Präzise Vorhersagen: Maschinelles Lernen kann Muster und Zusammenhänge erkennen, die für den Menschen schwer zu identifizieren sind. Dies ermöglicht präzisere Vorhersagen von Unfallrisiken.
-Effiziente Ressourcennutzung: Städte können ihre Ressourcen effektiver einsetzen, indem sie Maßnahmen dort ergreifen, wo das Unfallrisiko am höchsten ist.
-Öffentliche Aufklärung und Beteiligung:
-Bewusstseinsbildung: Die Ergebnisse der Analyse können genutzt werden, um die Öffentlichkeit über Gefahren und Sicherheitsmaßnahmen zu informieren.
-Bürgerbeteiligung: Durch die Einbeziehung der Bürger in die Datensammlung (z.B. Meldung von Fast-Unfällen) kann eine bessere Datenbasis geschaffen und das Sicherheitsbewusstsein erhöht werden.
-Zusammenfassung:
-Die Integration von Fast-Unfällen und realen Unfalldaten aus dem Jahr 2022 in ein maschinelles Lernprojekt bietet eine umfassende Grundlage für die Analyse und Prävention von Fahrradunfällen. Diese innovative Herangehensweise hilft, die Verkehrssicherheit zu verbessern, das Vertrauen in den Radverkehr zu stärken und letztlich eine nachhaltigere und gesündere städtische Mobilität zu fördern.
-3. Datenquellen und Datensätze
-Beschreibung der Datenquellen: Erklären Sie, woher die Daten stammen (z.B. öffentliche Aufzeichnungen, Apps, Forschungsstudien).
-Datenbeschreibung: Geben Sie eine Zusammenfassung der relevanten Variablen und Merkmale in Ihren Daten (wie in den vorherigen Nachrichten besprochen).
-Trello und Notebook schauen
-4. Methodik
-Machine Learning Ansatz: Erklären Sie, was der Machine Learning Aspekt sein könnte, um für das Problem der Fahrradunfallanalyse zu benutzen.
-Datenverarbeitung und Feature Engineering: Beschreiben Sie, wie die Daten vorbereitet wurden, einschließlich Bereinigung, Transformation und Auswahl relevanter Merkmale.
-Modellbildung: Diskutieren Sie die Art der Modelle, die Sie verwendet haben (z.B. Klassifikation, Regression) und warum diese für Ihr Problem geeignet sind.
-5. Ergebnisse und Erkenntnisse
-Vorhersagen und Leistung des Modells: Präsentieren Sie die Ergebnisse Ihrer Vorhersagen und bewerten Sie die Leistung Ihres Modells anhand relevanter Metriken (wie Genauigkeit, Präzision, Recall).
-Identifizierte Muster und Hotspots: Diskutieren Sie die Muster und Erkenntnisse, die Sie durch die Analyse der Daten gewonnen haben, z.B. wo und wann Fahrradunfälle häufig auftreten.
-6. Idee:
-Praktische Anwendungen: Beschreiben Sie, wie Ihre Ergebnisse zur Verbesserung der Verkehrssicherheit beitragen könnten, z.B. durch die Identifikation von Hotspots für gezielte Sicherheitsmaßnahmen.
-7. Problemstellung
-Zusammenfassung der Hauptpunkte: Fassen Sie die wichtigsten Ergebnisse und Erkenntnisse Ihrer Präsentation zusammen.
-Problemstellung vorstellen und was der nächste Ansatz ist
-8. Fragen und Diskussion
-Interaktion mit dem Publikum: Öffnen Sie die Sitzung für Fragen und Diskussionen über Ihre Präsentation und Ihre Ergebnisse.
-Schlussworte: Beenden Sie Ihre Präsentation mit Dank an das Publikum und Ihre Mitwirkenden.
+**Prädiktive Analyse von Fahrradunfällen basierend auf Fast-Unfällen und realen Unfällen aus dem Jahr 2022**
 
+Guten Tag und herzlich willkommen zu unserer Präsentation über unser Projekt "Prädiktive Analyse von Fahrradunfällen". Der Zweck dieses Projekts ist es, durch die Analyse von Beinahe-Unfällen und realen Unfalldaten aus dem Jahr 2022 wertvolle Erkenntnisse zur Verbesserung der Verkehrssicherheit und zur Förderung nachhaltiger Mobilität zu gewinnen. Heute möchten wir Ihnen unsere bisherigen Erkenntnisse aus der Datenanalyse vorstellen.
+
+Lassen Sie uns zunächst einen kurzen Überblick über die Bedeutung der Verkehrssicherheit für Fahrradfahrer geben. Fahrradfahren ist eine umweltfreundliche und gesunde Fortbewegungsart, doch die Sicherheit der Radfahrer stellt eine große Herausforderung dar. Unser Projekt wird in Zusammenarbeit mit der Stadtverwaltung durchgeführt, um mithilfe von Datenanalysen aus dem Jahr 2022 die Risikofaktoren für Fahrradunfälle zu identifizieren. Dabei untersuchen wir sowohl Beinahe-Unfälle, die knapp an einem Unfall vorbeigegangen sind, als auch tatsächliche Unfälle, um präzise und fundierte Empfehlungen für die Verbesserung der Verkehrssicherheit abgeben zu können.
+
+Wir haben zwei Arten von Daten analysiert: Beinahe-Unfälle und reale Unfälle. Beinahe-Unfälle umfassen Situationen, die knapp an einem Unfall vorbeigegangen sind, aber wichtige Hinweise auf gefährliche Situationen und Verhaltensmuster liefern können. Reale Unfälle bieten konkrete Informationen über tatsächliche Unfälle, einschließlich ihrer Schwere und der spezifischen Umstände. Durch die Kombination dieser Datenquellen können wir potenzielle Risikofaktoren frühzeitig erkennen und gezielte präventive Maßnahmen ergreifen, bevor es zu tatsächlichen Unfällen kommt.
+
+Sicherheitsverbesserung ist ein zentrales Ziel unseres Projekts. Durch die Analyse von Beinahe-Unfällen können wir potenzielle Risikofaktoren identifizieren und Maßnahmen ergreifen, um diese zu adressieren. Städte und Gemeinden können dadurch gezielte Maßnahmen wie Infrastrukturverbesserungen oder Verkehrsregelungen implementieren, um die Sicherheit zu erhöhen. Ein weiteres wichtiges Ziel ist die Förderung des Radverkehrs. Wenn Radfahrer wissen, dass Gefahren proaktiv adressiert werden, steigt das Vertrauen in die Nutzung des Fahrrads als Verkehrsmittel. Ein sichereres Radverkehrsumfeld fördert die Nutzung des Fahrrads, was positive Effekte auf die Gesundheit der Bevölkerung und die Umwelt hat.
+
+Maschinelles Lernen spielt eine zentrale Rolle in unserer Analyse. Es ermöglicht die Erkennung von Mustern und Zusammenhängen, die für den Menschen schwer zu identifizieren sind, und bietet somit präzisere Vorhersagen von Unfallrisiken. Städte können ihre Ressourcen effektiver einsetzen, indem sie Maßnahmen dort ergreifen, wo das Unfallrisiko am höchsten ist. Die Ergebnisse der Analyse können genutzt werden, um die Öffentlichkeit über Gefahren und Sicherheitsmaßnahmen zu informieren. Durch die Einbeziehung der Bürger in die Datensammlung, wie zum Beispiel die Meldung von Beinahe-Unfällen, kann eine bessere Datenbasis geschaffen und das Sicherheitsbewusstsein erhöht werden. Diese innovative Herangehensweise hilft, die Verkehrssicherheit zu verbessern, das Vertrauen in den Radverkehr zu stärken und letztlich eine nachhaltigere und gesündere städtische Mobilität zu fördern.
+
+Nun möchten wir Ihnen die Datenquellen und Datensätze vorstellen, die wir für unsere Analyse verwendet haben. Die Daten stammen aus öffentlichen Aufzeichnungen und umfassen eine Vielzahl von Variablen und Merkmalen, die für unsere Analyse relevant sind, wie z.B. Standortdaten, Zeitpunkte der Unfälle und Wetterbedingungen.
+
+In unserer Datenanalyse verwenden wir verschiedene statistische Methoden, um Muster und Trends in den Unfalldaten zu identifizieren. Derzeit konzentrieren wir uns auf die Aufbereitung und Exploration der Daten, um eine solide Grundlage für die weiterführende Analyse zu schaffen. Dies umfasst die Bereinigung der Daten, das Feature Engineering und die Vorbereitung für den Einsatz von Machine-Learning-Modellen.
+
+Wir haben uns lange mit der Frage beschäftigt, wo genau maschinelles Lernen zum Einsatz kommen kann. Einige Ideen davon möchten wir Ihnen gerne vorstellen:
+
+Ein Hauptziel könnte darin bestehen, ein Modell zu entwickeln, das basierend auf historischen Daten Vorhersagen darüber trifft, wo und wann Fahrradunfälle wahrscheinlich auftreten werden. Dies könnte helfen, präventive Maßnahmen zu planen und gezielt Sicherheitsmaßnahmen einzuführen. Durch maschinelles Lernen können geografische Muster und Faktoren identifiziert werden, die mit einem erhöhten Risiko von Fahrradunfällen verbunden sind. Dies könnte die Lokalisierung von Hotspots erleichtern, wo häufig Unfälle auftreten. Darüber hinaus kann maschinelles Lernen verwendet werden, um die verschiedenen Faktoren zu analysieren, die zu Fahrradunfällen beitragen könnten, wie z.B. Wetterbedingungen, Verkehrsbedingungen, Art der Straßeninfrastruktur und das Verhalten der Verkehrsteilnehmer. Basierend auf den Erkenntnissen aus dem Modell können gezielte Sicherheitsmaßnahmen vorgeschlagen werden, um die Sicherheit von Fahrradfahrern zu verbessern, wie z.B. die Optimierung von Radwegen, die Einführung von Geschwindigkeitsbegrenzungen oder die Erhöhung der Sichtbarkeit. Schließlich kann maschinelles Lernen auch verwendet werden, um Echtzeit-Daten zu analysieren und ein Warnsystem zu entwickeln, das Behörden oder Fahrradfahrer warnt, wenn ein erhöhtes Unfallrisiko in einem bestimmten Bereich erkannt wird.
+
+Unsere Ergebnisse haben praktische Anwendungen zur Verbesserung der Verkehrssicherheit. Durch die Identifikation von Hotspots können gezielte Sicherheitsmaßnahmen ergriffen werden, wie z.B. die Optimierung von Radwegen oder die Einführung von Geschwindigkeitsbegrenzungen. Bislang haben wir jedoch keine endgültigen Ergebnisse oder Vorhersagen generiert, da wir uns noch in der Analysephase befinden. Unsere Arbeit konzentriert sich darauf, die Daten sorgfältig zu untersuchen und erste Erkenntnisse zu gewinnen. Die Analyse der Beinahe-Unfälle und realen Unfälle wird uns helfen, Risikofaktoren zu identifizieren und geeignete Maßnahmen zur Verbesserung der Verkehrssicherheit zu empfehlen.
+
+Zum Abschluss möchten wir die Sitzung für Fragen und Diskussionen öffnen. Wir freuen uns über Ihr Feedback und Ihre Anregungen zu unserem Projekt. Vielen Dank für Ihre Aufmerksamkeit.
